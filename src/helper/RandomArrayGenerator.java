@@ -1,9 +1,6 @@
 package helper;
 public class RandomArrayGenerator {
     public int[] GenerateRandomArray(int lengthsArray, int maxPossible, int minPossible) {
-        //int lengthsArray = 30; // длинна массива
-       // int maxPossible = 20; // максимально возможное число
-       // int minPossible = 10; // минимальное возможное число
 
         int RandomArray[] = new int[lengthsArray];
 
